@@ -1,0 +1,113 @@
+.rectangulo {
+    width: 1250px;
+    height: 80px;
+    background-color: #002e60;
+    text-align: center;
+    color: white;    
+    padding: 20px;
+    font-family: Cardo;
+    
+  }  
+* {
+    box-sizing: border-box;
+    }
+    
+    *:focus {
+        outline: none;
+    }
+    body {
+    font-family: Cardo;
+    background-color: #009574;
+    padding: 30px;
+    }
+    .login {
+    margin-top : 30px;
+    width: 300px;
+    width: 1250px;
+
+    }
+    .login-screen {
+    background-color: #002e60;
+    padding: 20px;
+    border-radius: 5px
+    }
+    
+    .app-title {
+    text-align: center;
+    color: white;
+    font-family: Cardo;
+    font-size: 23px;
+
+    }
+    
+    .login-form {
+    text-align: center;
+    
+    }
+    .control-group {
+    margin-bottom: 10px;
+    }
+    
+    input {
+    text-align: center;
+    background-color: #f1ecec;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 10px 0;
+    width: 700px;
+    transition: border .5s;
+    }
+    
+    input:focus {
+    border: 2px solid #009574;
+    box-shadow: none;
+    }
+    
+    .btn {
+      border: 2px solid transparent;
+      background: #009574;
+      color: #ffffff;
+      font-size: 16px;
+      line-height: 25px;
+      padding: 10px 0;
+      text-decoration: none;
+      text-shadow: none;
+      border-radius: 3px;
+      box-shadow: none;
+      transition: 0.25s;
+      display: block;
+      width: 250px;
+      margin: 0 auto;
+    }
+    
+    .btn:hover {
+      background-color: #009574;
+    }
+    
+    .login-link {
+      font-size: 12px;
+      color: white;
+      display: block;
+        margin-top: 12px;
+    }
+    
+    .registro {
+      font-size: 12px;
+      color: white;
+        margin-top: 12px;
+        text-align: center;
+        padding: 20px;
+
+    }
+    .btn  {
+  font-size: 30px;
+}
+
+
+.sec_text{
+    text-align: center;
+    font-family: Cardo;
+
+}
